@@ -24,14 +24,14 @@ Este projeto é uma melhoria de um exercício de programação desenvolvido no c
 
 A estrutura do projeto é organizada da seguinte forma:
 
-RPG-js-/
-│ ├── src/ 
-│ ├── css/ 
-│ │ └── styles.css # Arquivo de estilos para a interface do jogo 
-│ │ │ ├── js/
-│ │ └── script.js # Lógica do jogo (interação com os elementos da página) 
-│ │ │ └── index.html # Arquivo HTML principal, contém a estrutura da página 
-│ └── README.md # Este arquivo de documentação 
+RPG-js-/           
+│ ├── src/             
+│ ├── css/                  
+│ │ └── styles.css # Arquivo de estilos para a interface do jogo                          
+│ │ │ ├── js/                  
+│ │ └── script.js # Lógica do jogo (interação com os elementos da página)                   
+│ │ │ └── index.html # Arquivo HTML principal, contém a estrutura da página                
+│ └── README.md # Este arquivo de documentação                       
 
 
 - **`index.html`**: Contém a estrutura básica da página, incluindo os elementos de interação, como botões e textos.
